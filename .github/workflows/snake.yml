@@ -8,6 +8,7 @@ on:
   push:
     branches:
       - main
+      - claude/profile-readme-r6chk6
   # Allow manual runs from the Actions tab
   workflow_dispatch:
 
