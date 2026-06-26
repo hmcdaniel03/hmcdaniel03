@@ -28,7 +28,7 @@ Hunter:
 
 ## 🧪 What I'm building
 
-> 🔒 Most of these live in private repos for now — here's what's cooking in the lab.
+> 🔒 Most of these live in private repos for now.
 
 **🤖 AI Agents & Automation**
 - **`medusa`** — a multi-agent coding harness: one *boss* head coordinating many worker *snakes* that plan, code, and review in parallel.
