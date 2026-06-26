@@ -73,7 +73,7 @@ Hunter:
 ## 📊 Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hmcdaniel03&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hmcdaniel03&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub stats" />
 <img height="160" src="https://streak-stats.demolab.com?user=hmcdaniel03&hide_border=true&background=0D1117&stroke=00E5FF&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 </div>
 
